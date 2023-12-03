@@ -14,7 +14,7 @@ export default function HeroSection() {
             <br className="hidden lg:inline-block" />
             <Typewriter
               options={{
-                strings: ["Web Developer","UI & UX Designer","Coder","and also",'Problem Solver'],
+                strings: ["Jamstack Developer","Modern Web Developer","UI & UX Designer","Coder","and also",'Problem Solver'],
                 autoStart: true,
                 loop: true,
               }}

@@ -7,7 +7,7 @@ Next.js 13, Tailwind CSS, and TypeScript.
 
 
 ### Watch Youtube Video:
-[![Watch the video](https://i9.ytimg.com/vi_webp/dJn8jqh3iUY/mqdefault.webp?v=659a7f44&sqp=CNT86awG&rs=AOn4CLA3tCTNw3vyWk26O3smvcFq8pdNUQ)](https://www.youtube.com/watch?v=ToefrGde6NY)
+[![Watch the video](https://i9.ytimg.com/vi_webp/dJn8jqh3iUY/mqdefault.webp?v=659a7f44&sqp=CNT86awG&rs=AOn4CLA3tCTNw3vyWk26O3smvcFq8pdNUQ)](https://youtu.be/dJn8jqh3iUY)
 
 
 
